@@ -19,7 +19,7 @@
 ```
 * * *
 
-<img width"" height="" src="./png/NCT127.png"></img>
+<img width="500" height="400" src="./png/NCT127.png"></img>
 
 
 
